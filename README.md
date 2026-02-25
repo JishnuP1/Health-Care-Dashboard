@@ -1,4 +1,12 @@
 A Power BI dashboard designed for healthcare facilities to monitor financial performance, departmental contributions, and patient service insights. This project provides a clear, data-driven view of billing, costs, insurance coverage, and revenue trends, enabling administrators to make informed decisions.
+
+
+
+
+
+
+
+
 📌 Key Performance Indicators (KPIs)
 • 	Total Billing Amount: 3.4M
 • 	Average Billing Amount per Visit: 674.86
