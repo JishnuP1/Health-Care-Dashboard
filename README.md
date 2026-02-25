@@ -8,6 +8,7 @@ A Power BI dashboard designed for healthcare facilities to monitor financial per
 
 
 📌 Key Performance Indicators (KPIs)
+
 • 	Total Billing Amount: 3.4M
 
 • 	Average Billing Amount per Visit: 674.86
